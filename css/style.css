@@ -17,6 +17,7 @@ body{
     border-radius: 0px;
     position: relative;
     top: -27px;
+    z-index: 1;
 }
 #my-navigation .navbar-brand img{
     width: 90%;
